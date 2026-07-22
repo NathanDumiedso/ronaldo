@@ -747,6 +747,12 @@ h1, h2, h3, h4 {
   color: var(--gold);
 }
 
+.footer-credit {
+  margin-top: 10px;
+  font-size: 0.75rem;
+  color: #6b6b6b;
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 860px) {
   .nav-links {
